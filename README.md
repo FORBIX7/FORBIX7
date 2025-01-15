@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 ---
 
 ![Смешная GIF](https://media.giphy.com/media/l0HlNQ14OkKrbG3Ve/giphy.gif)
+
+
 ![Animated SVG](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/animated.svg)
