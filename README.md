@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Смешная GIF](https://media.giphy.com/media/l0HlNQ14OkKrbG3Ve/giphy.gif)
 
 
-![GIF](https://github.com/user-attachments/assets/fb2d77b6-394f-44e1-ae3d-092f750fa482)
+![Смешная GIF](https://github.com/user-attachments/assets/fb2d77b6-394f-44e1-ae3d-092f750fa482)
