@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 ![Смешная GIF](https://media.giphy.com/media/l0HlNQ14OkKrbG3Ve/giphy.gif)
 
-![discord-alt-svgrepo-com(2)](https://github.com/user-attachments/assets/8869bc98-1cd4-4fdc-8773-41a623670a5b)
+
+![discord-alt-svgrepo-com(3)](https://github.com/user-attachments/assets/c1db670d-8c54-44b0-b46f-d7a427e67667)
