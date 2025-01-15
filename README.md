@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Смешная GIF](https://media.giphy.com/media/l0HlNQ14OkKrbG3Ve/giphy.gif)
 
 
-![Смешная GIF](https://tenor.com/ru/view/anime-aaaa-yelling-scream-mad-gif-2566373336159153327)
+![Untitled](https://github.com/user-attachments/assets/fb2d77b6-394f-44e1-ae3d-092f750fa482)
