@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Смешная GIF](https://media.giphy.com/media/l0HlNQ14OkKrbG3Ve/giphy.gif)
 
-!(https://img.freepik.com/free-vector/anime-coloring-pages-illustration_23-2151298326.jpg?t=st=1736932784~exp=1736936384~hmac=2548243ff8fe2f5400d3cccc87e8000f09e6b7973276e057bd19d2a2a04121f4&w=740)
+![discord-alt-svgrepo-com(2)](https://github.com/user-attachments/assets/8869bc98-1cd4-4fdc-8773-41a623670a5b)
