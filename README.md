@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Смешная GIF](https://media.giphy.com/media/l0HlNQ14OkKrbG3Ve/giphy.gif)
 
 
-[![Typing SVG](https://tenor.com/ru/view/anime-aaaa-yelling-scream-mad-gif-2566373336159153327)
+![Смешная GIF](https://tenor.com/ru/view/anime-aaaa-yelling-scream-mad-gif-2566373336159153327)
