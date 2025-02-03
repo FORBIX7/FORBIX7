@@ -31,14 +31,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FORBIX7&layout=compact&theme=vision-friendly-dark&bg_color=00000000" />
 </div>
 
-<!-- Секция проектов с hover-эффектами -->
-<h2 align="center">💼 Featured Projects</h2>
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_НИК&repo=ЛУЧШИЙ_РЕПО&theme=radical)](https://github.com/FORBIX7/ЛУЧШИЙ_РЕПО)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_НИК&repo=ДРУГОЙ_РЕПО&theme=radical)](https://github.com/FORBIX7/ДРУГОЙ_РЕПО)
 
-</div>
 
 <!-- Интерактивная временная шкала -->
 <h2 align="center">📅 Coding Activity</h2>
@@ -50,4 +43,4 @@
 🌃 Вечер   7 commits      ████░░░░░░░░░░░░░░ 17% 
 🌙 Ночь    5 commits      ██░░░░░░░░░░░░░░░░ 13%
 ```
-</div><!-- Соцсети с анимированными иконками --><h2 align="center">📫 Connect With Me</h2> <div align="center"> <a href="https://t.me/ваш_ник"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ваш_ник" /> </a> <a href="mailto:ваш@email.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ваш_профиль"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div><!-- Анимированный разделитель --><div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%"> </div><!-- Интерактивная змейка с коммитами --><div align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"> </div><!-- Плавающие частицы в футере --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=65&section=footer&animation=blink" /> </div> ```
+<div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%"> </div><!-- Интерактивная змейка с коммитами --><div align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"> </div><!-- Плавающие частицы в футере --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=65&section=footer&animation=blink" /> </div> ```
