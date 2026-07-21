@@ -1,79 +1,103 @@
 <div align="center">
-  <!-- Стильный, но сдержанный баннер -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&section=header&text=Alexander%20Rogov&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Automation%20Enthusiast&descSize=16&descColor=a0a0a0&descAlignY=55" alt="Header" />
-  
-  <br>
-  
-  <p>
-    📍 Краснодар, Россия &nbsp;|&nbsp; 🎓 КГТК (Красный диплом, 2025) &nbsp;|&nbsp; ✉️ <a href="mailto:aaa023786@gmail.com">aaa023786@gmail.com</a>
-  </p>
-</div>
 
-<!-- Аккуратный современный разделитель -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+# Alexander Rogov
 
-### 💻 Обо мне
-Начинающий разработчик, который превращает рутину в элегантный код. Моя суперсила — находить неочевидные решения, доводить проекты до рабочего состояния и разбираться в чужом коде. Ценю чистую архитектуру, внимателен к деталям и открыт к изучению новых стеков под реальные бизнес-задачи.
+Python Developer
 
----
+Краснодар, Россия • КГТК, красный диплом (2025)
 
-### 🛠️ Технологический стек
-<div align="center">
-  <!-- Современные, стильные иконки от skillicons (выглядят намного круче стандартных) -->
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,sqlite,linux,vscode&theme=dark&perline=8" />
+<a href="mailto:aaa023786@gmail.com">aaa023786@gmail.com</a> •
+<a href="https://t.me/forbix">@forbix</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,sqlite,linux,vscode&theme=light" />
+
 </div>
 
 ---
 
-### 🚀 Избранные проекты
+## О себе
 
-> **🤖 AI Telegram-бот для анализа БД**  
-> *Превращаем естественный язык в SQL-запросы*  
-> - **Задача:** Дать возможность получать аналитику из БД без знания синтаксиса SQL.  
-> - **Решение:** Асинхронный бот (`aiogram`), который принимает текст, генерирует через LLM валидный SQL, выполняет его и возвращает ответ или ER-диаграмму.  
-> - **Фишка:** Реализовал строгую валидацию и `try-except` блоки, чтобы бот не падал при "галлюцинациях" нейросети.  
-> - **Стек:** `Python`, `aiogram`, `SQLite`, `LLM API`.
+Привет!
 
-> **📝 Test Prep Platform**  
-> *Интерактивная платформа с алгоритмом интервального повторения*  
-> - **Задача:** Заменить неудобные Word-файлы на умный мобильный формат для подготовки к зачетам.  
-> - **Решение:** SPA на чистом `JavaScript`. Неправильные ответы "прогоняются" заново до полного усвоения. Подключен `MathJax` для рендеринга формул.  
-> - **Результат:** **125+ студентов** используют регулярно. Развернуто на **GitHub Pages** (работает по ссылке, без бэкенда).  
-> - **Стек:** `HTML5`, `CSS3`, `Vanilla JS`, `MathJax`.
+Я начинающий Python-разработчик. Люблю проекты, в которых можно автоматизировать рутинные задачи или сделать удобный инструмент для пользователей.
 
-> **📦 WB Automation Script**  
-> *Инструмент для автоматизации сборки заказов Wildberries*  
-> - **Задача:** Исключить человеческий фактор при обработке однотипных товаров из разных карточек.  
-> - **Решение:** Скрипт собирает данные о заказах в реальном времени, кластеризует похожие позиции и автоматически списывает их с локальной БД.  
-> - **Стек:** `Python`, `SQLite`, `Requests`.
+Большую часть времени работаю с Python, иногда использую JavaScript для небольших веб-приложений. Сейчас продолжаю изучать backend-разработку, асинхронность и постепенно расширяю портфолио новыми проектами.
 
 ---
 
-### 🎯 Мой фокус сейчас
-- 📚 Углубляю знания в **асинхронном Python** и построении надежных API (`FastAPI` / `Django`).
-- 🛠️ Практикую написание типизированного кода (`mypy`, `pydantic`) и покрытие его тестами (`pytest`).
-- 🌐 Изучаю основы DevOps для пет-проектов (Docker, базовый CI/CD).
+## Проекты
+
+### AI Telegram Bot
+
+Телеграм-бот, который преобразует запросы на естественном языке в SQL-запросы с помощью LLM и выполняет их для базы данных.
+
+Что реализовано:
+
+- асинхронная работа на aiogram;
+- генерация SQL;
+- обработка ошибок при некорректных ответах модели;
+- построение ER-диаграмм.
+
+**Python · aiogram · SQLite**
 
 ---
 
-### 📬 Связаться со мной
+### Test Prep Platform
+
+Одностраничное веб-приложение для подготовки к зачетам.
+
+Вопросы, на которые пользователь отвечает неправильно, повторяются позже по принципу интервального повторения. Для отображения математических формул используется MathJax.
+
+Проект регулярно используют более **125 студентов**.
+
+**HTML · CSS · JavaScript · MathJax**
+
+---
+
+### WB Automation
+
+Скрипт для автоматизации обработки заказов Wildberries.
+
+Получает информацию о заказах, объединяет похожие позиции и работает с локальной базой данных, сокращая количество ручных действий.
+
+**Python · SQLite · Requests**
+
+---
+
+## Сейчас изучаю
+
+- FastAPI
+- Django
+- Docker
+- pytest
+- основы CI/CD
+
+---
+
 <div align="center">
-  <a href="https://t.me/forbix" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="32"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:aaa023786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/FORBIX7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="32"/>
-  </a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FORBIX7&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FORBIX7&layout=compact&theme=transparent&hide_border=true"/>
+
 </div>
 
-<br>
+---
+
 <div align="center">
-  <sub>Открыт к предложениям о стажировке или позиции Junior Python Developer</sub>
+
+<a href="https://github.com/FORBIX7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://t.me/forbix">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:aaa023786@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
