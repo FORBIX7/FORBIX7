@@ -60,7 +60,7 @@
 
 ### 📬 Связаться со мной
 <div align="center">
-  <a href="https://t.me/ТВОЙ_НИК_В_TELEGRAM" target="_blank">
+  <a href="https://t.me/@forbix" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="32"/>
   </a>
   &nbsp;&nbsp;
