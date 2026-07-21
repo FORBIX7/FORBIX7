@@ -1,46 +1,63 @@
-# Привет! 👋 Я Александр Рогов
-
-**Junior Python Developer | Automation Enthusiast**
-
-📍 Краснодар, Россия  
-🎓 КГТК, 2025 — красный диплом  
-📧 aaa023786@gmail.com
-
----
-
-### 🔧 Технологии
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <h1>Привет, я Александр Рогов 👋</h1>
+  <h3>Junior Python Developer | Automation Enthusiast</h3>
+  <p>
+    📍 Краснодар, Россия &nbsp;|&nbsp; 🎓 КГТК (Красный диплом, 2025) &nbsp;|&nbsp; ✉️ <a href="mailto:aaa023786@gmail.com">aaa023786@gmail.com</a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Проекты
-
-**🤖 AI Telegram Bot**  
-Бот для анализа БД через естественный язык  
-`Python` `aiogram` `LLM` `SQL`
-
-**📝 Test Prep Platform**  
-Веб-приложение для подготовки к тестам (125+ пользователей)  
-`HTML` `CSS` `JavaScript` `MathJax`
-
-**📦 WB Automation**  
-Автоматизация сборки заказов Wildberries  
-`Python` `SQLite` `API`
+### 💻 Обо мне
+Начинающий разработчик с фокусом на автоматизацию процессов и работу с данными. Умею превращать рутинные задачи в элегантные скрипты и веб-интерфейсы. Ценю чистый код, внимателен к деталям и всегда довожу проекты до рабочего состояния.
 
 ---
 
-###  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FORBIX7&show_icons=true&theme=radical&hide_border=true)
+### 🛠️ Технологический стек
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+</div>
 
 ---
 
-### 📫 Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaa023786@gmail.com)
+### 🚀 Избранные проекты
+
+| Проект | Стек | Описание |
+| :--- | :--- | :--- |
+| **🤖 AI Telegram Bot** | `Python`, `aiogram`, `LLM`, `SQL` | Бот для анализа баз данных через естественный язык. Генерирует SQL-запросы и строит ER-диаграммы по текстовому описанию. |
+| **📝 Test Prep Platform** | `HTML`, `CSS`, `JS`, `MathJax` | Интерактивное веб-приложение с алгоритмом интервального повторения. Поддерживает математические формулы. **125+ активных пользователей**. |
+| **📦 WB Automation** | `Python`, `SQLite` | Скрипт для сбора данных о заказах Wildberries в реальном времени и автоматического списания товаров со склада, исключающий человеческий фактор. |
 
 ---
 
-*Открыт к интересным проектам и новым вызовам!* 
+### 📊 Активность на GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FORBIX7&show_icons=true&theme=nord&hide_border=true&title_color=81A1C1&icon_color=81A1C1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FORBIX7&layout=compact&theme=nord&hide_border=true&title_color=81A1C1" alt="Top Languages" />
+</div>
+
+---
+
+### 📬 Связаться со мной
+
+<div align="center">
+  <a href="https://t.me/ТВОЙ_НИК_В_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:aaa023786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
+  </a>
+</div>
+
+<br>
+<div align="center">
+  <sub>Открыт к интересным проектам и новым вызовам</sub>
+</div>
