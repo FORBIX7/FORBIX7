@@ -76,14 +76,3 @@ Python Developer
 
 ---
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FORBIX7&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FORBIX7&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-
